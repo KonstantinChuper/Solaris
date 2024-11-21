@@ -16,6 +16,10 @@
     "theme",
     "dark"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KonstantinChuper/Solaris"
+  },
   "contributes": {
     "themes": [
       {
