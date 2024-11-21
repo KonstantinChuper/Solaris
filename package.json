@@ -1,0 +1,28 @@
+{
+  "name": "solaris",
+  "displayName": "Solaris theme",
+  "description": "Fantastic VSCode Dark Theme",
+  "version": "0.0.1",
+  "publisher": "SkiffOn",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "vscode",
+    "solaris",
+    "theme",
+    "dark"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Solaris",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Solaris-color-theme.json"
+      }
+    ]
+  }
+}
