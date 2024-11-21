@@ -1,11 +1,11 @@
 {
-  "name": "solaris",
-  "displayName": "Solaris theme",
+  "name": "solaris-theme-ultra",
+  "displayName": "Solaris theme Ultra",
   "description": "Fantastic VSCode Dark Theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "SkiffOn",
   "engines": {
-    "vscode": "^1.95.0"
+    "vscode": "^1.12.0"
   },
   "categories": [
     "Themes"

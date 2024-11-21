@@ -374,7 +374,7 @@
       "name": "js console function",
       "scope": "entity.name.function,support.function.console",
       "settings": {
-        "foreground": "#8c3dff"
+        "foreground": "#732eda"
       }
     },
     {
